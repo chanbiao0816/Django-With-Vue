@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["cn/ch01/index","index"],envversion:53,filenames:["cn\\ch01\\index.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:1,modul:1,page:1,search:1},titles:["&lt;no title&gt;","VUE Django \u524d\u540e\u7aef\u5206\u79bb"],titleterms:{"\u524d\u540e\u7aef\u5206\u79bb":1,django:1,document:[],indic:1,tabl:1,vue:1,vue_with_django:[],welcom:[]}})
